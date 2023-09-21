@@ -1,0 +1,242 @@
+[
+  {
+    "title": "Ocean's Whisper: Ariel's Legacy",
+    "developer": {
+      "name": "DeepBlue Studios",
+      "location": { "country": "Australia", "city": "Sydney" }
+    },
+    "genres": ["Adventure", "Action", "Fantasy"],
+    "features": {
+      "multiplayer": { "online": true, "maxPlayers": 6 },
+      "gameModes": [
+        "Story Mode",
+        "Treasure Hunt",
+        ["Puzzle Challenge", "Realm Exploration"]
+      ],
+      "VRSupported": true
+    },
+    "ratings": { "IGN": 9.4, "GameSpot": 9.2 },
+    "releaseYear": 2024,
+    "isExclusive": true,
+    "protagonist": {
+      "name": "Ariel",
+      "background": "A mermaid princess set out to reclaim her kingdom's lost relics and unveil the mysteries of the ocean."
+    },
+    "minimumCompleteTime": 1200,
+    "maximumCompleteTime": 2400
+  },
+  {
+    "title": "Celestial Quest: Lila's Journey",
+    "developer": {
+      "name": "MysticMoon Games",
+      "location": { "country": "UK", "city": "London" }
+    },
+    "genres": ["Adventure", "Action", "Fantasy"],
+    "features": {
+      "multiplayer": { "online": true, "maxPlayers": 4 },
+      "gameModes": [
+        "Story Mode",
+        "Magic Duels",
+        ["Mystic Puzzles", "Realm Exploration"]
+      ],
+      "VRSupported": false
+    },
+    "ratings": { "IGN": 9.3, "GameSpot": 9.0 },
+    "releaseYear": 2023,
+    "isExclusive": true,
+    "protagonist": {
+      "name": "Lila",
+      "background": "A young mage from the Celestial Realm seeking to uncover ancient secrets and save her world."
+    },
+    "minimumCompleteTime": 1500,
+    "maximumCompleteTime": 3000
+  },
+  {
+    "title": "Futuristic City Racers",
+    "developer": {
+      "name": "SpeedTech Studios",
+      "location": { "country": "USA", "city": "Los Angeles" }
+    },
+    "genres": ["Racing", "Simulation", "Open World"],
+    "features": {
+      "multiplayer": { "online": true, "maxPlayers": 16 },
+      "gameModes": [
+        "Time Trial",
+        "Championship",
+        ["Custom Race", "Challenge Mode"]
+      ],
+      "VRSupported": false
+    },
+    "ratings": { "IGN": 9.1, "GameSpot": 8.8 },
+    "releaseYear": 2023,
+    "isExclusive": false,
+    "minimumCompleteTime": 800,
+    "maximumCompleteTime": 1600
+  },
+  {
+    "title": "Nebula Warriors: Zara's Strike",
+    "developer": {
+      "name": "Galaxy Games",
+      "location": { "country": "Canada", "city": "Toronto" }
+    },
+    "genres": ["Shooter", "Action", "Sci-Fi"],
+    "features": {
+      "multiplayer": { "online": true, "maxPlayers": 10 },
+      "gameModes": [
+        "Campaign",
+        "Skirmish",
+        ["Galactic Conquest", "Bounty Hunt"]
+      ],
+      "VRSupported": true
+    },
+    "ratings": { "IGN": 9.5, "GameSpot": 9.3 },
+    "releaseYear": 2024,
+    "isExclusive": false,
+    "protagonist": {
+      "name": "Zara",
+      "background": "A relentless warrior battling through uncharted galaxies to prevent an alien invasion."
+    },
+    "minimumCompleteTime": 1800,
+    "maximumCompleteTime": 3600
+  },
+  {
+    "title": "Time Rift: Sarah's Escape",
+    "developer": {
+      "name": "Quantum Gaming",
+      "location": { "country": "Germany", "city": "Berlin" }
+    },
+    "genres": ["Action", "Adventure", "Puzzle"],
+    "features": {
+      "multiplayer": { "online": false, "maxPlayers": 1 },
+      "gameModes": [
+        "Story Mode",
+        "Time Trials",
+        ["Puzzle Solving", "Dimensional Shift"]
+      ],
+      "VRSupported": false
+    },
+    "ratings": { "IGN": 9.0, "GameSpot": 9.0 },
+    "releaseYear": 2024,
+    "isExclusive": true,
+    "protagonist": {
+      "name": "Sarah",
+      "background": "A scientist trapped in alternate dimensions, altering time to find her way back."
+    },
+    "minimumCompleteTime": 1400,
+    "maximumCompleteTime": 2800
+  },
+  {
+    "title": "Shadow Hunters: Lena's Pursuit",
+    "developer": {
+      "name": "Nightfall Interactive",
+      "location": { "country": "Japan", "city": "Tokyo" }
+    },
+    "genres": ["Action", "Stealth", "Horror"],
+    "features": {
+      "multiplayer": { "online": true, "maxPlayers": 8 },
+      "gameModes": ["Story Mode", "Survival", ["Hunt Mode", "Escape"]],
+      "VRSupported": true
+    },
+    "ratings": { "IGN": 9.7, "GameSpot": 9.4 },
+    "releaseYear": 2024,
+    "isExclusive": false,
+    "protagonist": {
+      "name": "Lena",
+      "background": "A shadow hunter pursuing malevolent spirits through the darkest corners of the world."
+    },
+    "minimumCompleteTime": 1600,
+    "maximumCompleteTime": 3200
+  },
+  {
+    "title": "Sky Pirates: Fiona's Rebellion",
+    "developer": {
+      "name": "HighFlyer Games",
+      "location": { "country": "France", "city": "Paris" }
+    },
+    "genres": ["Action", "Adventure", "Strategy"],
+    "features": {
+      "multiplayer": { "online": true, "maxPlayers": 12 },
+      "gameModes": ["Campaign", "Skirmish", ["Air Battle", "Treasure Hunt"]],
+      "VRSupported": false
+    },
+    "ratings": { "IGN": 9.2, "GameSpot": 9.1 },
+    "releaseYear": 2024,
+    "isExclusive": true,
+    "protagonist": {
+      "name": "Fiona",
+      "background": "A rebellious sky pirate leading her crew against tyrannical rulers and uncovering sky-bound treasures."
+    },
+    "minimumCompleteTime": 2000,
+    "maximumCompleteTime": 4000
+  },
+  {
+    "title": "Desert Mirage: Aisha's Odyssey",
+    "developer": {
+      "name": "Sandscale Studios",
+      "location": { "country": "Egypt", "city": "Cairo" }
+    },
+    "genres": ["Adventure", "Action", "Puzzle"],
+    "features": {
+      "multiplayer": { "online": true, "maxPlayers": 5 },
+      "gameModes": [
+        "Story Mode",
+        "Puzzle Solving",
+        ["Mirage Exploration", "Treasure Seeking"]
+      ],
+      "VRSupported": true
+    },
+    "ratings": { "IGN": 8.9, "GameSpot": 9.0 },
+    "releaseYear": 2025,
+    "isExclusive": false,
+    "protagonist": {
+      "name": "Aisha",
+      "background": "A daring explorer unraveling the secrets of ancient ruins and mirages in the vast desert."
+    },
+    "minimumCompleteTime": 1700,
+    "maximumCompleteTime": 3400
+  },
+  {
+    "title": "Urban Runner: Max's Adventure",
+    "developer": {
+      "name": "Cityscape Games",
+      "location": { "country": "Brazil", "city": "São Paulo" }
+    },
+    "genres": ["Action", "Parkour", "Open World"],
+    "features": {
+      "multiplayer": { "online": true, "maxPlayers": 10 },
+      "gameModes": ["Freerun", "Race", ["Time Trial", "Exploration"]],
+      "VRSupported": false
+    },
+    "ratings": { "IGN": 8.8, "GameSpot": 8.7 },
+    "releaseYear": 2024,
+    "isExclusive": false,
+    "protagonist": {
+      "name": "Max",
+      "background": "An agile runner navigating through urban landscapes, overcoming obstacles and uncovering city secrets."
+    },
+    "minimumCompleteTime": 1300,
+    "maximumCompleteTime": 2600
+  },
+  {
+    "title": "Mystic Realm: Ivy's Prophecy",
+    "developer": {
+      "name": "ElderTree Games",
+      "location": { "country": "Norway", "city": "Oslo" }
+    },
+    "genres": ["RPG", "Adventure", "Fantasy"],
+    "features": {
+      "multiplayer": { "online": false, "maxPlayers": 1 },
+      "gameModes": ["Quest", "Exploration", ["Crafting", "Monster Hunting"]],
+      "VRSupported": true
+    },
+    "ratings": { "IGN": 9.6, "GameSpot": 9.5 },
+    "releaseYear": 2024,
+    "isExclusive": true,
+    "protagonist": {
+      "name": "Ivy",
+      "background": "A mystic with the power to foresee the future, embarking on a journey to prevent impending doom."
+    },
+    "minimumCompleteTime": 2100,
+    "maximumCompleteTime": 4200
+  }
+]
