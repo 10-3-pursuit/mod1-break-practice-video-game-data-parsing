@@ -17,3 +17,5 @@ Data for these problems is located in the `data` folder.
 Solve each function in the `index.js` file using preferably **Higher Order Array Methods**, but if not then with **for loops**
 
 Solutions can be found on the solution branch
+
+Good Luck! 🍀
